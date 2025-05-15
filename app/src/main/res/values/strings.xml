@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ServiceXpress</string>
+    <string name="find_trusted_service_anytime_anywhere">Find Trusted Service, Anytime, Anywhere.</string>
+    <string name="discover_a_world_of_relaiable_service_providers_at_your_fingertips">Discover a world of relaiable service providers at your fingertips.</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="images_showing_the_app_s_features">Images showing the app\'s features</string>
+    <string name="go_back">Go Back</string>
+    <string name="book_services_in_minutes">Book Services in Minutes</string>
+    <string name="enjoy_a_simple_and_secure_booking_process_select_your_service_schedule_a_time_and_confirm_request_with_just_a_few_taps">Enjoy a simple and secure booking process, Select your service, schedule a time, and confirm request with just a few taps.</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="log_in">Log in</string>
+    <string name="join_thousand_of_users_finding_trusted_services_effortlessly">Join thousand of users finding trusted services effortlessly</string>
+    <string name="full_name">Full Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or">Or</string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+</resources>
