@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.servicexpress" />
+                  <option name="mobileSdkAppId" value="1:228534948503:android:a9b92cd42c0e602c214fd2" />
+                  <option name="projectId" value="servicexpressng" />
+                  <option name="projectNumber" value="228534948503" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

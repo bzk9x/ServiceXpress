@@ -20,4 +20,10 @@
     <string name="sign_up">Sign Up</string>
     <string name="or">Or</string>
     <string name="sign_up_with_google">Sign up with Google</string>
+    <string name="creating_your_account">Creating your account...</string>
+    <string name="verify_your_account">Verify Your Account</string>
+    <string name="verify">Verify</string>
+    <string name="didn_t_receive_the_email">Didn\'t receive the email?</string>
+    <string name="resend">Resend</string>
+    <string name="wow_you_made_it_to_the_end_the_rest_of_the_app_is_still_being_built_for_being_part_of_the_team_you_get_a_realy_cool_staff_badge">Wowie, you made it to the end 😲, the rest of the app is still being built. For being part of the team you get a really cool staff badge.</string>
 </resources>
